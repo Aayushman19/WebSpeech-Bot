@@ -1,0 +1,1 @@
+ With the Web Speech API, we can develop rich web applications with natural user interactions and minimal visual interface, using voice commands. In this tutorial, Tomomi Imura will use the API to create an artificial intelligence (AI) voice chat interface in the browser. The app will listen to the user’s voice and reply with a synthetic voice.
